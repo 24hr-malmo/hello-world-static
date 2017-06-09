@@ -1,6 +1,0 @@
-"docker stop" requires at least 1 argument(s).
-See 'docker stop --help'.
-
-Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
-
-Stop one or more running containers
